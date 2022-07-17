@@ -1,0 +1,2 @@
+# LoveHelpsTheMallManagementSystem
+爱心助力商城管理系统-毕业设计
