@@ -77,6 +77,7 @@
 			</dt>
 			<dd>
 				<ul>
+					<li><a data-href="goods/createGoods.action" data-title="新增商品列表" href="javascript:void(0)">新增商品列表</a></li>
 					<li><a data-href="goods/getAllGoods.action" data-title="商品列表" href="javascript:void(0)">商品信息列表</a></li>
 					<li><a data-href="goods/queryGoodsByCond.action" data-title="商品查询" href="javascript:void(0)">商品信息查询</a></li>
 				</ul>
